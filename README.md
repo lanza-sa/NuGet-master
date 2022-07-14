@@ -1,2 +1,2 @@
-# Lana NuGet Logo
+# Lanza NuGet Logo
 Lanza logo used for NuGet packages
