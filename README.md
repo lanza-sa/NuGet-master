@@ -1,2 +1,2 @@
-# lanza-NuGet-master
-Lanza logo
+# Lana NuGet Logo
+Lanza logo used for NuGet packages
